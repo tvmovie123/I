@@ -167,15 +167,6 @@
             "subtitle": "官方视频解析"
         },
         {
-            "id": 14,
-            "title": "最新",
-            "baseUri": "http://www.zuixinzy.com",
-            "apiUrl": "http://api.zuixinapi.com/inc/apixinm3u8.php",
-            "level": 1000,
-            "updateDate": "2020-02-10",
-            "subtitle": "资源站不稳定"
-        },
-        {
             "id": 15,
             "title": "明日解析",
             "baseUri": " http://zy.zcocc.com",
