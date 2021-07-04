@@ -80,33 +80,15 @@
             }
         },
         {
-        "id": 2,
-        "title": "4K姨妈",
-        "baseUri": "https://4k.4kyima.com",
-        "apiUrl": "https://4k.4kyima.com/api.php/provide/vod/at/xml",
-        "type": 4,
-        "level": 2,
-        "isJx": true,
-        "updateDate": "2020-09-23",
-        "subtitle": "全网聚合，高清，需解析，多线路"
-    },
-        {
-            "id": 3,
-            "title": "1886",
-            "baseUri": "http://www.1886zy.com",
-            "apiUrl": "http://cj.1886zy.co/inc/zkm3u8.php",
-            "level": 22,
-            "updateDate": "2020-02-10",
-            "subtitle": "资源站不稳定",
-        },
-        {
-            "id": 4,
-            "title": "沃酷",
-            "baseUri": "http://wokuzy.com",
-            "apiUrl": "http://api.wokuzy.com/api/xml/wokum3u8",
-            "level": 1000,
-            "updateDate": "2021-01-16",
-            "subtitle": "资源站不稳定"
+            "id": 2,
+            "title": "4K姨妈",
+            "baseUri": "https://4k.4kyima.com",
+            "apiUrl": "https://4k.4kyima.com/api.php/provide/vod/at/xml",
+            "type": 4,
+            "level": 2,
+            "isJx": true,
+            "updateDate": "2020-09-23",
+            "subtitle": "全网聚合，高清，需解析，多线路"
         },
         {
             "id": 5,
@@ -144,7 +126,6 @@
             "updateDate": "2021-02-10",
             "subtitle": "免解析，有跑马广告"
         },
-        
         {
             "id": 10,
             "title": "被窝",
@@ -154,7 +135,17 @@
             "updateDate": "2020-02-10",
             "subtitle": "免解析，有跑马广告"
         },
-{"id":1101,"title":"09资源 ","baseUri":"https://09tv.top","apiUrl":"https://09tv.top/api.php/provide/vod/at/xml","type":4,"level":200,"isJx":true,"updateDate":"2021-05-23","subtitle":"全网聚合，高清，需解析，多线路"}
+        {
+            "id": 1101,
+            "title": "9号资源",
+            "baseUri": "https://09tv.top",
+            "apiUrl": "https://09tv.top/api.php/provide/vod/at/xml",
+            "type": 4,
+            "level": 200,
+            "isJx": true,
+            "updateDate": "2021-05-23",
+            "subtitle": "全网聚合，高清，需解析，多线路"
+        },
         {
             "id": 12,
             "title": "萌果解析",
@@ -189,21 +180,12 @@
             "subtitle": "官方视频解析"
         },
         {
-            "id": 17,
-            "title": "酷播",
-            "baseUri": "http://www.kubozy.net",
-            "apiUrl": "http://api.kbzyapi.com/inc/api_kakam3u8.php",
-            "level": 100,
-            "updateDate": "2020-02-10",
-            "subtitle": "资源站不稳定"
-        },
-        {
             "id": 19,
             "title": "8090解析",
             "baseUri": " http://zy.yilans.net:8090",
             "apiUrl": " http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
             "type": 4,
-             "isJx": true,
+            "isJx": true,
             "level": 2,
             "updateDate": "2021-02-10",
             "subtitle": "官方视频解析"
@@ -216,16 +198,6 @@
             "level": 2,
             "updateDate": "2020-02-10",
             "subtitle": "免解析，有跑马广告"
-        },
-        {
-            "id": 25,
-            "title": "聚合",
-            "baseUri": "http://www.juhezyw.com",
-            "apiUrl": "https://cj.cbi88.com/inc/api_juhem3u8.php",
-            "level": 100,
-            "isNoRandomIp": true,
-            "updateDate": "2020-06-24",
-            "subtitle": "资源站不稳定"
         },
         {
             "id": 29,
@@ -325,16 +297,6 @@
             "updateDate": "2021-03-06",
             "subtitle": "全网聚合，高清，需解析，多线路"
         },
-
-        {
-            "id": 52,
-            "title": "泰剧迷",
-            "baseUri": "https://www.taijumi.cc",
-            "apiUrl": "https://www.taijumi.cc/api.php/provide/vod/at/xml",
-            "level": 100,
-            "updateDate": "2020-04-03",
-            "subtitle": "资源站不稳定"
-        },
         {
             "id": 53,
             "title": "ADC",
@@ -347,7 +309,7 @@
     ],
     "jxApiList": [
         {
-           "jxUrl": "https://www.cuan.la/m3u8.php?url="
+            "jxUrl": "https://www.cuan.la/m3u8.php?url="
         },
         {
             "jxUrl": "https://jx.yaohuaxuan.com/?url="
