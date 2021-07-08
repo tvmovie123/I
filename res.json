@@ -219,6 +219,10 @@
     ],
     "jxApiList": [
         {
+           //秒解析
+           "jxUrl": "https://jx.aidouer.net/?url="
+        }
+        {
             "jxUrl": "https://yun.nxflv.com/?url="
         },
         {
